@@ -4,7 +4,7 @@
 
 ---
 
-```markdown
+
 # 📸 Sketch Pro — Auto Image Capture & Sketch Drawing with Turtle
 
 Welcome to **Sketch Pro** — a Python-based project that uses your webcam to **capture images**, convert them into **pencil sketches**, and draw them using **Turtle graphics**! All done automatically with real-time **Windows notifications**.
