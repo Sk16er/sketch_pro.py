@@ -100,8 +100,17 @@ Saved at: C:/Users/YourName/Path/sketch_image3.jpg
 ---
 
 ## 📷 **Demo Screenshots** (Optional Section — Add Screenshots)
+- ![image](https://github.com/user-attachments/assets/67606422-f23a-471c-adb7-7720582de7a9).
+- ![image](https://github.com/user-attachments/assets/4447b92a-bdcc-471e-8103-25a70be925d3).
+- ![image](https://github.com/user-attachments/assets/43df39ee-bc4c-40eb-86b2-c994a9538b81).
+- ![image](https://github.com/user-attachments/assets/86d08222-54db-4120-8a4f-3ae6c436aa06).
+- ![image](https://github.com/user-attachments/assets/7af3129d-010b-4e37-b188-89992e7beb41)
+- these are some images oveously i do not show my images due to privacy
 
-_Add screenshots or GIFs of your app running to showcase how it works._
+
+
+
+
 
 ---
 
@@ -121,28 +130,10 @@ This project is open-source under the **MIT License**. Feel free to use and modi
 
 ### 🚀 Made with ❤️ by [Sk16er](https://github.com/Sk16er)
 
----
 
-```
-
----
-
-### 📌 **Instructions:**
-1. Just copy-paste this into your `README.md` file in the root of your GitHub repo.
-2. You can add screenshots under the "Demo Screenshots" section later.
-3. You can also modify the license and contributions section if needed.
-
----
-
-Let me know if you want me to help create a **GitHub Pages landing site** or design some **badges** (like "Built with Python", "MIT License", etc.)! 🚀🔥
-
-```
 ## Also added pikachu image
 - now you can draw pikachu also
 - [pika.py](https://github.com/Sk16er/sketch_pro.py/blob/main/pika.py)
-- ![image](https://github.com/user-attachments/assets/73869d3f-c69b-48f7-9e2d-74f56fba9472)
-- ![image](https://github.com/user-attachments/assets/68eaf038-a83c-4b9d-bc22-59e1464087c1)
-- ![image](https://github.com/user-attachments/assets/1a1c25ff-c23f-4c96-8f61-afdf6b35471d)
 
 
 
