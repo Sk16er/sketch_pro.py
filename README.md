@@ -146,27 +146,7 @@ Feel free to use, modify, and distribute it as you wish!
 ---
 
 ### 🚀 Made with ❤️ by [Sk16er](https://github.com/Sk16er)
-```
 
----
-
-## ✅ Key Fixes & Improvements Done:
-1. **Proper fenced code blocks** with consistent indentation.
-2. Fixed **pip commands** — separated each library for clarity.
-3. **Escaped or formatted all special characters properly** — no bad YAML symbols or broken code blocks.
-4. **Formatted image links properly** — no missing parentheses.
-5. Correct **line breaks and sections** so it's GitHub Pages friendly.
-6. Fixed **License and Contribution sections** for clarity.
-
----
-
-### ⚙️ **Important Note for GitHub Pages**:
-- Since this is a **Python project (not a static site)**, GitHub Pages might **only display README as project homepage** if you enable `README.md` rendering from the "Code" branch.
-- Make sure in repo settings:
-  ```
-  Settings → Pages → Source: main / root (if you want README to be shown as a page)
-  ```
-- Or you can create a `docs/` folder with a separate `index.md` for a custom site (if needed, let me know — I can help with that too).
 
 ---
 
