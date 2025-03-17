@@ -13,7 +13,7 @@ Welcome to **Sketch Pro** — a Python-based project that uses your webcam to **
 
 ## 🌐 GitHub Repository
 
-🔗 **Project Repo**: [https://github.com/Sk16er/sketch_pro.py](https://github.com/Sk16er/sketch_pro.py)
+🔗 **Project Repo**: [repo](https://github.com/Sk16er/sketch_pro.py)
 
 ---
 
@@ -141,7 +141,7 @@ Feel free to use, modify, and distribute it as you wish!
 - Feel free to **fork this repo** and make pull requests!
 - Found an issue? Open an [Issue](https://github.com/Sk16er/sketch_pro.py/issues).
 - Have a suggestion? Start a **Discussion**!
-- live at [https://sk16er.github.io/sketch_pro.py/](https://sk16er.github.io/sketch_pro.py/)
+- live at [fuckin_link](https://sk16er.github.io/sketch_pro.py/)
 
 ---
 
